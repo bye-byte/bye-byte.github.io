@@ -1,3 +1,3 @@
 Hello World!
 
-[README](./README.MD)
+[README](./README.md)
