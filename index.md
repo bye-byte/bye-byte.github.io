@@ -1,3 +1,3 @@
-![logo](https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png)
+![logo](https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png){:.ioda}
 
 The website is under construction...
