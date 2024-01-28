@@ -1,3 +1,2 @@
-![pic](https://img2.imgtp.com/2024/01/28/aRtIJYPL.jpg){:style="float:left" width="25%"}
-
+![pic](https://img2.imgtp.com/2024/01/28/aRtIJYPL.jpg){:style="float:left; margin-right:10px;" width="25%"}
 The website is under construction...
