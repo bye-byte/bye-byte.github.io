@@ -1,5 +1,5 @@
 ![pic](https://img2.imgtp.com/2024/01/28/aRtIJYPL.jpg)
-{: width="50"}
+{: width="20"}
 {: .align-left}
 
 The website is under construction...
