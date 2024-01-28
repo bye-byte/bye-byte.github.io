@@ -1,3 +1,3 @@
-![pic](https://img2.imgtp.com/2024/01/28/aRtIJYPL.jpg){: .align-left}
+![pic](https://img2.imgtp.com/2024/01/28/aRtIJYPL.jpg){: .align-left} {:width="25%"}
 
 The website is under construction...
